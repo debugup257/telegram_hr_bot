@@ -1,0 +1,12 @@
+highest_qualification:  
+  - Doctoral degree
+      -phd
+      -Ph.d
+      -ph.D
+  - Masters degree
+  - Graduate diploma
+  - Graduate certificate
+  - Bachelor degree
+  - Advanced diploma/Associates degree
+  - Diploma
+  - none

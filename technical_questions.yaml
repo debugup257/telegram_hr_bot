@@ -1,0 +1,79 @@
+list_of_questions_role_BD_with_exp :
+  - "Can you describe your business development experience and how it has prepared you for this role?"
+  - "How do you identify and pursue new business opportunities?"
+  - "Can you give an example of a successful business development strategy you implemented in the past?"
+  - "How do you manage and prioritize your business development efforts?"
+  - "How do you build and maintain relationships with potential clients or partners?"
+  - "How do you handle objections or setbacks in the business development process?"
+  - "How do you stay up-to-date on industry trends and changes that could impact business development efforts?"
+  - "How do you measure the success of your business development efforts?"
+  - "Can you describe a time when you had to think creatively to overcome a business development challenge?"
+  - "How do you work with cross-functional teams (such as sales, marketing, and product) to support business development efforts?"
+
+Lead Data Scientist:
+  - Can you explain how a ROC curve is constructed, and what information it provides?,performance of a binary classifier, plotted with the false positive rate on the x-axis and the true positive rate on the y-axis.
+  - How do you handle multicollinearity in your data?
+  - How do you handle large, high-dimensional datasets?
+  - Can you explain how a decision tree is constructed?
+  - How do you deal with imbalanced datasets?
+  - Can you explain how an artificial neural network works?
+  - Can you describe how you would build a recommendation engine?
+  - Can you explain how a support vector machine (SVM) algorithm works?
+  - Can you describe how you would go about optimizing a slow running query in a database?
+  - Can you explain how a Gaussian mixture model works?
+
+Data Science Trainee:
+  - Can you explain the difference between supervised and unsupervised learning?
+  - How do you handle missing data in a dataset?
+  - Can you explain how a decision tree works?
+  - Can you describe a situation where you have used linear regression?
+  - How do you evaluate the performance of a machine learning model?
+  - Can you explain the concept of overfitting in a model?
+  - Can you describe a project you worked on that involved natural language processing?
+  - How do you handle categorical variables in a dataset?
+  - Can you explain the difference between a random forest and a gradient boosting model?
+  - Can you describe the difference between a positive and negative correlation?
+
+Lead Developer (Java):
+  - Can you tell us about your experience with Java development?
+  - Can you explain the difference between an interface and an abstract class in Java?
+  - How do you handle exceptions in Java?
+  - Can you describe a project you worked on that used multithreading in Java?
+  - How do you optimize the performance of a Java application?
+  - Can you explain the concept of garbage collection in Java?
+  - Can you describe a situation where you have used the Spring framework in Java?
+  - How do you implement security in a Java application?
+  - Can you explain the difference between a HashMap and a Hashtable in Java?
+  - Can you describe a project you worked on that involved working with a database in Java?
+  - How do you implement serialization in Java?
+  - Can you explain the concept of polymorphism in Java?
+  - Can you describe a situation where you have used the Hibernate framework in Java?
+  - How do you use generics in Java?
+  - Can you explain the difference between a Stack and a Queue in Java?
+  - Can you describe a project you worked on that involved working with web services in Java?
+  - How do you implement caching in a Java application?
+  - Can you explain the concept of encapsulation in Java?
+  - Can you describe a situation where you have used the Struts framework in Java?
+  - How do you use reflection in Java?
+
+Software Developer Trainee (Java):
+  - Can you tell us about your experience with Java development?
+  - Can you explain the difference between an interface and an abstract class in Java?
+  - How do you handle exceptions in Java?
+  - Can you describe a project you worked on that used multithreading in Java?
+  - How do you optimize the performance of a Java application?
+  - Can you explain the concept of garbage collection in Java?
+  - Can you describe a situation where you have used the Spring framework in Java?
+  - How do you implement security in a Java application?
+  - Can you explain the difference between a HashMap and a Hashtable in Java?
+  - Can you describe a project you worked on that involved working with a database in Java?
+  - How do you implement serialization in Java?
+  - Can you explain the concept of polymorphism in Java?
+  - Can you describe a situation where you have used the Hibernate framework in Java?
+  - How do you use generics in Java?
+  - Can you explain the difference between a Stack and a Queue in Java?
+  - Can you describe a project you worked on that involved working with web services in Java?
+  - How do you implement caching in a Java application?
+  - Can you explain the concept of encapsulation in Java?
+  - Can you describe a situation where you have used the Struts framework in Java?
+  - How do you use reflection in Java?
