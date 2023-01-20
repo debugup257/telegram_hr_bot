@@ -1,0 +1,62 @@
+intent,user_input
+greet,hello
+greet,hi
+greet,hey
+greet,good morning
+greet,good afternoon
+greet,good evening
+greet,what up
+greet,how it going
+greet,how are you
+greet,what new
+greet,long time no see
+greet,nice to meet you
+intent_name,i am
+intent_name,thank you my name is
+intent_name,ok so my name is
+intent_name,ok so well my name is
+intent_name,please call me
+intent_name,my nickname is
+intent_name,everyone calls me
+intent_email,my email is
+intent_email,thank you my email is 
+intent_email,my email is
+intent_email,well my email is
+intent_ph,my phone number is
+intent_ph,my phone is
+intent_ph,ok so my number is
+intent_ph,ok so well my ph. is
+intent_ph,ph
+agree,yes
+agree,Sure
+agree,Absolutely
+agree,Definitely
+agree,Without a doubt
+agree,Absolutely not
+agree,Of course
+agree,Agreed
+agree,I concur
+agree,It's a done deal
+agree,Sounds good to me
+agree,Absolutely
+agree,Definitely
+agree,Without a doubt
+agree,"Yes of course"
+agree,"Yes definitely"
+agree,"Yes certainly"
+agree,"Yes certainly"
+agree,"Yes absolutely"
+agree,"Yes definitely"
+agree,"Yes no doubt about it"
+disagree,No
+disagree,nope
+disagree, never
+disagree,Absolutely not
+disagree,Definitely not
+disagree,I disagree
+disagree,That's not true
+disagree,"I'm sorry but I disagree"
+disagree,I don't think so
+disagree,I'm afraid I disagree
+disagree,"Unfortunately I can't agree with that"
+disagree,"I'm sorry but I have to disagree"
